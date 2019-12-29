@@ -1,0 +1,1 @@
+var app = angular.module('youlexuan',['pagination']);//定义优乐选模块，增加分页模块
